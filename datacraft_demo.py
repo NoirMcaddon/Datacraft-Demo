@@ -118,9 +118,10 @@ def encode_file(input_file, world_path, start_id=1000000):
 
     print(f"\n✅ Done! {num_maps} maps created 🎉")
     print(f"📋 Try these commands:")
-    print(f"   /give @p filled_map{{map:{start_id}}}")
+    print(f"   /give @p filled_map[minecraft:map_id={start_id}]")
     if num_maps > 1:
-        print(f"   /give @p filled_map{{map:{start_id + 1}}} ... up to {start_id + num_maps -1}")
+    print(f"   /give @p filled_map[minecraft:map_id={start_id + 1}] ... up to {start_id + num_maps -1}")
+
 
     # Save metadata
     meta_file = os.path.join(data_dir, f"mapstore_meta_{start_id}.txt")
@@ -223,3 +224,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
