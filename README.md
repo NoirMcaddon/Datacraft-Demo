@@ -16,8 +16,8 @@ This repository exists for:
 * Transparency for the community
 * Demonstrating the core idea
 
-The commercial software version includes:
-
+The commercial **Software Version** = https://www.patreon.com/posts/datacraft-146566018?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+includes:
 * Unlimited File Size 
 * Full GUI
 * Optimized encoding pipeline
@@ -122,6 +122,7 @@ To visually see the stored data inside Minecraft, run:
 Open the map in-game to view the encoded Data.
 
 **EASY PEASY**
+
 
 
 
