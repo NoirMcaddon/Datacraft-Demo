@@ -120,7 +120,7 @@ def encode_file(input_file, world_path, start_id=1000000):
     print(f"📋 Try these commands:")
     print(f"   /give @p filled_map[minecraft:map_id={start_id}]")
     if num_maps > 1:
-    print(f"   /give @p filled_map[minecraft:map_id={start_id + 1}] ... up to {start_id + num_maps -1}")
+        print(f"   /give @p filled_map[minecraft:map_id={start_id + 1}] ... up to {start_id + num_maps -1}")
 
 
     # Save metadata
@@ -224,5 +224,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
