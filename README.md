@@ -16,7 +16,7 @@ This repository exists for:
 * Transparency for the community
 * Demonstrating the core idea
 
-The commercial **Software Version** = https://www.patreon.com/posts/datacraft-146566018?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+The commercial **Software Version** 
 includes:
 * Unlimited File Size 
 * Full GUI
